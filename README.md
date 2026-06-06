@@ -42,7 +42,7 @@ Defeating it gives a big reward
 
 Special Modes
 Cheat Mode → auto-aim, fast shooting, invincibility
-Challenging Mode → darker environment + hidden jellyfish enemies (press )
+Challenging Mode → darker environment + hidden jellyfish enemies 
 
 Goal
 Reach the treasure after passing checkpoints
@@ -60,7 +60,6 @@ Key  Action :
 | Q | Rise upward (capped at height 400) |
 | E | Dive downward (capped at minimum height 15, just above the seabed) |
 
-Movement speed increases slightly each level — `speed = base_speed + level × 0.5` — so the submarine feels faster as the game progresses.
 
 ---
 
